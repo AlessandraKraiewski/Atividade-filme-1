@@ -3,7 +3,8 @@ body {
 }
 
 #logo {
-  height: 150px;
+  height: 200px;
+  display: margin-left: auto; margin-right: auto;
 }
 
 nav {
@@ -18,11 +19,13 @@ header nav ul {
 
 header nav li {
   display: inline-block;
-  margin: 0 10px 0 30px;
+  margin: 0 20px 0 40px;
+  text-transform: uppercase;
 }
 
 header nav a:hover {
-  color: #FFFFFF;
+  color: #000000;
+
 }
 
 .imagem-filme {
@@ -35,3 +38,15 @@ header nav a:hover {
   margin: 50px 50px 50px 500px;
   width: 300px;
 }
+
+p {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+  color:  #964b00;
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Pr
